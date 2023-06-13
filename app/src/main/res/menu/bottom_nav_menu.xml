@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/firstFragment"
+        android:title="First"
+        android:icon="@drawable/baseline_signal_wifi_0_bar_24"/>
+
+    <item android:id="@+id/secondFragment"
+        android:title="Second"
+        android:icon="@drawable/baseline_network_wifi_1_bar_24"/>
+
+    <item android:id="@+id/thirdFragment"
+        android:title="Third"
+        android:icon="@drawable/baseline_network_wifi_2_bar_24"/>
+
+    <item android:id="@+id/fourthFragment"
+        android:title="Fourth"
+        android:icon="@drawable/baseline_network_wifi_3_bar_24"/>
+
+    <item android:id="@+id/fifthFragment"
+        android:title="Fifth"
+        android:icon="@drawable/baseline_signal_wifi_4_bar_24"/>
+</menu>
