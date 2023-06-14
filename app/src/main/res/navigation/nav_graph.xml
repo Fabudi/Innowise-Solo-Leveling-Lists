@@ -5,19 +5,19 @@
     app:startDestination="@id/firstFragment">
     <fragment
         android:id="@+id/firstFragment"
-        android:name="inc.fabudi.lists.FirstFragment"
+        android:name="inc.fabudi.lists.first.FirstFragment"
         android:label="FirstFragment" />
     <fragment
         android:id="@+id/secondFragment"
-        android:name="inc.fabudi.lists.SecondFragment"
+        android:name="inc.fabudi.lists.second.SecondFragment"
         android:label="SecondFragment" />
     <fragment
         android:id="@+id/thirdFragment"
-        android:name="inc.fabudi.lists.ThirdFragment"
+        android:name="inc.fabudi.lists.third.ThirdFragment"
         android:label="ThirdFragment" />
     <fragment
         android:id="@+id/fourthFragment"
-        android:name="inc.fabudi.lists.FourthFragment"
+        android:name="inc.fabudi.lists.fourth.FourthFragment"
         android:label="FourthFragment" />
     <fragment
         android:id="@+id/fifthFragment"
