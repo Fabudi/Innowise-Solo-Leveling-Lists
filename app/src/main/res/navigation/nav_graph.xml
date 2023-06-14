@@ -17,7 +17,7 @@
         android:label="ThirdFragment" />
     <fragment
         android:id="@+id/fourthFragment"
-        android:name="inc.fabudi.lists.FourthFragment"
+        android:name="inc.fabudi.lists.fourth.FourthFragment"
         android:label="FourthFragment" />
     <fragment
         android:id="@+id/fifthFragment"
