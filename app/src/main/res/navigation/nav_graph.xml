@@ -13,7 +13,7 @@
         android:label="SecondFragment" />
     <fragment
         android:id="@+id/thirdFragment"
-        android:name="inc.fabudi.lists.ThirdFragment"
+        android:name="inc.fabudi.lists.third.ThirdFragment"
         android:label="ThirdFragment" />
     <fragment
         android:id="@+id/fourthFragment"
